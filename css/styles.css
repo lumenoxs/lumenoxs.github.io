@@ -80,11 +80,22 @@ main {
   text-shadow: 0 0px 6px rgba(0, 0, 0, 1);
   font-size: 50px;
   text-align: center;
-  font-family: "Asimovian", sans-serif;
 }
 
 .subtitle-text {
   margin-top: 10px;
   text-align: center;
+}
+
+.asimovian-regular {
   font-family: "Asimovian", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.kode-mono-body {
+  font-family: "Kode Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
 }
