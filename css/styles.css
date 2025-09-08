@@ -61,13 +61,12 @@ main {
   border-radius: 1.8px;
   text-align: center;
   position: sticky;
-  margin-top: 20px;
+  margin: 25px 10px;
   font-size: 20px;
   padding: 8px 24px;
   color: white;
   text-decoration: none;
   background-color: #1a6d6a48;
-  margin: 0 10px;
   box-shadow: 0 30px 25px rgba(0, 0, 0, 0.6);
 }
 
@@ -89,7 +88,6 @@ main {
 
 .kode-mono-body {
   font-family: "Kode Mono", "Asimovian", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 200;
+  font-weight: 400;
   font-style: normal;
 }
