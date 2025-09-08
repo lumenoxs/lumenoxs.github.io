@@ -67,8 +67,8 @@ main {
   color: white;
   text-decoration: none;
   background-color: #1a6d6a48;
+  margin: 0 10px;
   box-shadow: 0 30px 25px rgba(0, 0, 0, 0.6);
-  margin-bottom: 60px;
 }
 
 .footer:hover {
