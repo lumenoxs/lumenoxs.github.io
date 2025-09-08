@@ -34,6 +34,7 @@ main {
 .info-text {
     padding: 5.5% 0;
     font-size: 30px;
+    text-align: center;
 }
 
 .footer-img {
@@ -81,4 +82,8 @@ main {
     font-size: 50px;
     text-align: center;
     font-family:'Times New Roman', Times, serif;
+}
+
+.subtitle-text {
+    text-align: center;
 }
