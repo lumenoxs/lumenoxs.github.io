@@ -1,4 +1,4 @@
-@keyframes changeButtonFooter {
+@keyframes linksHover {
   from {background-color: #1a6d6a48;}
   to {background-color:rgba(0, 255, 255, 0.3);}
 }
@@ -73,7 +73,7 @@ main {
 }
 
 .footer:hover {
-  animation-name: changeButtonFooter;
+  animation-name: linksHover;
   animation-duration: 1.05s;
 }
 
