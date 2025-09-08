@@ -4,86 +4,87 @@
 }
 
 .title-hr {
-    height: 2px;
-    background-color: #000000;
-    color: #000000;
-    border: none;
+  height: 2px;
+  background-color: #000000;
+  color: #000000;
+  border: none;
 }
 
 body {
-    background-color: #367292;
-    color: #e6e6e6;
+  background-color: #367292;
+  color: #e6e6e6;
 }
 
 html, body {
-    height: 100%;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
 }
 
 .title-cont {
-    background-color: #068D90;
-    box-shadow: 0 9px 12px rgba(0, 0, 0, 0.8);
+  background-color: #068D90;
+  box-shadow: 0 9px 12px rgba(0, 0, 0, 0.8);
 }
 
 main {
-    flex: 1;
+  flex: 1;
 }
 
 .info-text {
-    padding: 5.5% 0;
-    font-size: 30px;
-    text-align: center;
+  padding: 5.5% 0;
+  font-size: 30px;
+  text-align: center;
 }
 
 .footer-img {
-    width: 24px;
-    height: 24px;
+  width: 24px;
+  height: 24px;
 }
 
 
 .footer-cont {
-    box-shadow: 0 -9px 12px rgba(0, 0, 0, 0.8);
-    background-color: #5BA8B7;
-    text-align: center;
-    padding: 40px 40px;
+  box-shadow: 0 -9px 12px rgba(0, 0, 0, 0.8);
+  background-color: #5BA8B7;
+  text-align: center;
+  padding: 40px 40px;
 }
 
 .title-img {
-    width: 160px;
-    height: 160px;
-    display: block;
-    margin: 20px auto;
+  width: 160px;
+  height: 160px;
+  display: block;
+  margin: 20px auto;
 }
 
 .footer {
-    border-radius: 1.8px;
-    text-align: center;
-    position: sticky;
-    margin-top: 20px;
-    font-size: 20px;
-    padding: 8px 24px;
-    margin: 0 10px;
-    color: white;
-    text-decoration: none;
-    background-color: #1a6d6a48;
-    box-shadow: 0 30px 25px rgba(0, 0, 0, 0.6);
-    margin-bottom: 60px;
+  border-radius: 1.8px;
+  text-align: center;
+  position: sticky;
+  margin-top: 20px;
+  font-size: 20px;
+  padding: 8px 24px;
+  margin: 0 10px;
+  color: white;
+  text-decoration: none;
+  background-color: #1a6d6a48;
+  box-shadow: 0 30px 25px rgba(0, 0, 0, 0.6);
+  margin-bottom: 60px;
 }
 
 .footer:hover {
-    animation-name: changeButtonFooter;
-    animation-duration: 1.05s;
+  animation-name: changeButtonFooter;
+  animation-duration: 1.05s;
 }
 
 .title-text {
-    text-shadow: 0 0px 6px rgba(0, 0, 0, 1);
-    font-size: 50px;
-    text-align: center;
-    font-family:'Times New Roman', Times, serif;
+  text-shadow: 0 0px 6px rgba(0, 0, 0, 1);
+  font-size: 50px;
+  text-align: center;
+  font-family: "Asimovian", sans-serif;
 }
 
 .subtitle-text {
-    text-align: center;
+  text-align: center;
+  font-family: "Asimovian", sans-serif;
 }
